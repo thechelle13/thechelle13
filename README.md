@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Michelle Totherow
 - 👀 I’m a Software Developer.
-- 🌱 I have completed a Nashville Software School Jumpstart program for Web Development and am currently an apprenticeship at NSS in the full time NSS Web Development Bootcamp...
+- 🌱 I have completed a Nashville Software School Jumpstart program for Web Development and am currently an apprentice at NSS in the full time NSS Web Development Bootcamp...
 - 💞️ I’m want to collaborate on projects and gaining more experience while networking with peers.
 - 📫 You can reach me on LinkedIn.
 
