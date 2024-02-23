@@ -1,11 +1,15 @@
-# Greetings! 👋, I'm Michelle Totherow
+# Hi there! 👋, I'm Michelle Totherow
 
-A passionate software developer based in Nashville, TN. I completed the Nashville Software School Jumpstart program for Web Development (Nov '22) and earned my certification in the full-time NSS Web Development Bootcamp program Jan 9th, 2024. The adventure continues... 
+I'm a passionate software developer based in Nashville, TN, with a strong enthusiasm for crafting clean, efficient code and solving real-world problems through technology. I recently completed the Nashville Software School Jumpstart program for Web Development (Nov '22) and earned my certification in the full-time NSS Web Development Bootcamp program on Jan 9th, 2024. The adventure continues...
 
-## Get in touch
-- 💬 Checkout my [LinkedIn]https://www.linkedin.com/in/michelletotherow/
+## Get in Touch
+- 💬 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/michelletotherow/)
+- 📧 You can also reach me via email at [tym4me13@gmail.com]
 
-
+## See My Live Deployed Sites
+- [Portfolio Site](https://thechelle13.github.io/) - A showcase of my projects and skills.
+- [Personal Website](https://www.michelletotherow.com) - A personal site created using a visual website builder.
+  
 ## Languages and Tools
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
@@ -20,13 +24,13 @@ A passionate software developer based in Nashville, TN. I completed the Nashvill
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
 
 ## GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=thechelle13&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=thechelle13&show_icons=true&theme=radical)
 
+## Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thechelle13&layout=compact&theme=radical)
 
+## Contributions Graph
+![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=thechelle13&theme=radical)
 
-
-
-<!---
-thechelle13/thechelle13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=thechelle13&theme=radical)
