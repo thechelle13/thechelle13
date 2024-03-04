@@ -1,6 +1,6 @@
 # Hi there! 👋, I'm Michelle Totherow
 
-I'm a passionate software developer based in Nashville, TN, with a strong enthusiasm for crafting clean, efficient code and solving real-world problems through technology. I recently completed the Nashville Software School Jumpstart program for Web Development (Nov '22) and earned my certification in the full-time NSS Web Development Bootcamp program on Jan 9th, 2024. The adventure continues...
+I'm a passionate software developer based in Nashville, TN, with a strong enthusiasm for crafting clean, efficient code and solving real-world problems through technology. I completed the Nashville Software School Jumpstart program for Web Development (Nov '22) and earned my certification in the full-time NSS Web Development Bootcamp program on Jan 9th, 2024. The adventure continues...
 
 ## Get in Touch
 - 💬 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/michelletotherow/)
