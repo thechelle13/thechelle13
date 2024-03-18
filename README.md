@@ -7,7 +7,7 @@ I'm a passionate software developer based in Nashville, TN, with a strong enthus
 - 📧 You can also reach me via email at [tym4me13@gmail.com]
 
 ## See My Live Deployed Sites
-- [Portfolio Site](https://thechelle13.github.io/) - A showcase of my projects and skills.
+- [Portfolio Site](https://thechelle13.github.io/) - A practice in deployment utilizing Github Pages with JS, HTML and CSS only. 
 - [Personal Website](https://www.michelletotherow.com) - A personal site created using a visual website builder.
 - [TechPower](https://tech-client-er3ag.ondigitalocean.app/) - My NSS final capstone project deployed on Digital Ocean.  This full stack app was built using Vite, Python, Django, and Tailwind techs.
   
