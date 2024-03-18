@@ -9,6 +9,7 @@ I'm a passionate software developer based in Nashville, TN, with a strong enthus
 ## See My Live Deployed Sites
 - [Portfolio Site](https://thechelle13.github.io/) - A showcase of my projects and skills.
 - [Personal Website](https://www.michelletotherow.com) - A personal site created using a visual website builder.
+- [TechPower](https://tech-client-er3ag.ondigitalocean.app/) - My NSS final capstone project deployed on Digital Ocean.  This full stack app was built using Vite, Python, Django, and Tailwind techs.
   
 ## Languages and Tools
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
