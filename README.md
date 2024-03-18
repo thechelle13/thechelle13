@@ -4,7 +4,7 @@ I'm a passionate software developer based in Nashville, TN, with a strong enthus
 
 ## Get in Touch
 - 💬 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/michelletotherow/)
-- 📧 You can also reach me via email at [tym4me13@gmail.com]
+
 
 ## See My Live Deployed Sites
 - [Portfolio Site](https://thechelle13.github.io/) - A practice in deployment utilizing Github Pages with JS, HTML and CSS only. 
