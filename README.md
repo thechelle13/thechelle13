@@ -9,6 +9,7 @@ I'm a passionate software developer based in Nashville, TN, with a strong enthus
 ## See My Live Deployed Sites
 - [Portfolio Site](https://thechelle13.github.io/) - A practice in deployment utilizing Github Pages with JS, HTML and CSS only. 
 - [Personal Website](https://www.michelletotherow.com) - A personal site created using a visual website builder.
+- [Weather App](https://weather-8usah.ondigitalocean.app/) - A practice in deploying a Vite React Front End that fetches current weather from OpenWeather.
 - [TechPower](https://tech-client-er3ag.ondigitalocean.app/) - My NSS final capstone project deployed on Digital Ocean.  This full stack app was built using Vite, Python, Django, and Tailwind techs.
   
 ## Languages and Tools
