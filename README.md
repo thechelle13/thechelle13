@@ -11,7 +11,8 @@ I'm a passionate software developer based in Nashville, TN, with a strong enthus
 - [Personal Website](https://www.michelletotherow.com) - A personal site created using a visual website builder.
 - [Weather App](https://weather-8usah.ondigitalocean.app/) - A practice in deploying a Vite React Front End that fetches current weather from OpenWeather.
 - [TechPower](https://tech-client-er3ag.ondigitalocean.app/) - My NSS final capstone project deployed on Digital Ocean.  This full stack app was built using Vite, Python, Django, and Tailwind techs.
-- [Bake-Shop](https://offplumbakeshop-sty2x.ondigitalocean.app/) - The Bake-Shop project deployed on Digital Ocean. 
+- [Bake-Shop](https://offplumbakeshop-sty2x.ondigitalocean.app/) - The Bake-Shop project deployed on Digital Ocean.
+- [Personal Planner App](https://personal-planner-hryyx.ondigitalocean.app/) - A practical application for organizing tasks and schedules efficiently built with fellow NSS graduates. 
   
 ## Languages and Tools
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
