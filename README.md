@@ -38,3 +38,6 @@ I'm a passionate software developer based in Nashville, TN, with a strong enthus
 
 ## Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=thechelle13&theme=radical)
+
+## Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=thechelle13&color=blueviolet&style=flat)
