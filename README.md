@@ -1,6 +1,10 @@
 # Hi there! 👋, I'm Michelle Totherow
 
-I'm a passionate software developer based in Nashville, TN, with a strong enthusiasm for crafting clean, efficient code and solving real-world problems through technology. I completed the Nashville Software School Jumpstart program for Web Development (Nov '22) and earned my certification in the full-time NSS Web Development Bootcamp program on Jan 9th, 2024. The adventure continues...
+I'm a passionate software developer based in Nashville, TN, with a strong enthusiasm for crafting clean, efficient code and solving real-world problems through technology. I completed the Nashville Software School Jumpstart program for Web Development (Nov '22) and earned my certification in the full-time NSS Web Development Bootcamp program on Jan 9th, 2024.
+
+I have also completed the Responsive Web Design Certification program on <a href="https://www.freecodecamp.com" target="_blank" rel="noopener noreferrer">freecodecamp.com</a> and am currently working toward finishing the JavaScript Algorithms and Data Structures Certification program. These wonderful courses are a review of the content that was covered in the Nashville Software School curriculum but did go into a deeper dive in CSS structure, which I truly enjoyed. If you would like to review my work from these programs, feel free to check out my CodePen <a href="https://codepen.io/MJTotherow/pens/public" target="_blank" rel="noopener noreferrer">here</a>.
+
+The adventure continues...
 
 ## Get in Touch
 - 💬 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/michelletotherow/)
