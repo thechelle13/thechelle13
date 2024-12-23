@@ -9,22 +9,22 @@ I earned my **Full Stack Web Development certification** from the **Nashville So
 ## 🚀 Featured Projects
 
 ### 🌐 **Live Deployed Sites**
-- **[Portfolio Site](https://thechelle13.github.io/)**  
+- **<a href="https://thechelle13.github.io/" target="_blank" rel="noopener noreferrer">Portfolio Site</a>**  
   A demonstration of deployment using GitHub Pages with JS, HTML, and CSS. A minimalist showcase of adaptability and design.
   
-- **[Modern Portfolio](https://www.michellejtotherow.com/)**  
+- **<a href="https://www.michellejtotherow.com/" target="_blank" rel="noopener noreferrer">Modern Portfolio</a>**  
   My evolving personal site, live on DigitalOcean, showcasing my technical growth and professional achievements.
 
-- **[Weather App](https://weather-8usah.ondigitalocean.app/)**  
+- **<a href="https://weather-8usah.ondigitalocean.app/" target="_blank" rel="noopener noreferrer">Weather App</a>**  
   A React-based application fetching real-time weather data from OpenWeather, deployed using Vite.
 
-- **[TechPower](https://tech-client-er3ag.ondigitalocean.app/)**  
+- **<a href="https://tech-client-er3ag.ondigitalocean.app/" target="_blank" rel="noopener noreferrer">TechPower</a>**  
   My NSS final capstone: a full-stack app built with **Python**, **Django**, **Vite**, and **Tailwind CSS**, demonstrating scalable design and robust backend functionality.
 
-- **[Bake-Shop](https://offplumbakeshop-sty2x.ondigitalocean.app/)**  
+- **<a href="https://offplumbakeshop-sty2x.ondigitalocean.app/" target="_blank" rel="noopener noreferrer">Bake-Shop</a>**  
   A fully-featured app for baking enthusiasts, showcasing frontend finesse and backend precision.
 
-- **[Personal Planner App](https://personal-planner-hryyx.ondigitalocean.app/)**  
+- **<a href="https://personal-planner-hryyx.ondigitalocean.app/" target="_blank" rel="noopener noreferrer">Personal Planner App</a>**  
   Built collaboratively with NSS graduates, this app streamlines task and schedule organization, reflecting real-world teamwork.
 
 ---
