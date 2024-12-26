@@ -22,7 +22,7 @@ I earned my **Full Stack Web Development certification** from the **Nashville So
   My NSS final capstone: a full-stack app built with **Python**, **Django**, **Vite**, and **Tailwind CSS**, demonstrating scalable design and robust backend functionality.
 
 - **<a href="https://offplumbakeshop-sty2x.ondigitalocean.app/" target="_blank" rel="noopener noreferrer">Bake-Shop</a>**  
-  A fully-featured app for baking enthusiasts, showcasing frontend finesse and backend precision.
+  A front-end app for baking enthusiasts created with client, showcasing frontend finesse.
 
 - **<a href="https://personal-planner-hryyx.ondigitalocean.app/" target="_blank" rel="noopener noreferrer">Personal Planner App</a>**  
   Built collaboratively with NSS graduates, this app streamlines task and schedule organization, reflecting real-world teamwork.
