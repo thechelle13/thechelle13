@@ -2,7 +2,7 @@
 
 I'm a passionate **Full Stack Software Developer** based in Nashville, TN. My journey in technology has been fueled by curiosity, creativity, and a desire to solve real-world problems through innovative solutions. With every project, I push the boundaries of my skillset, continually refining my expertise and embracing new challenges.
 
-I earned my **Full Stack Web Development certification** from the **Nashville Software School** (NSS) in January 2024 and completed the **Responsive Web Design Certification** from [freeCodeCamp](https://www.freecodecamp.com). I'm currently advancing my knowledge with the **JavaScript Algorithms and Data Structures Certification**, deepening my understanding of core programming concepts.
+I earned my Full Stack Web Development certification from the Nashville Software School (NSS) in January 2024 and completed the Responsive Web Design Certification from freeCodeCamp. I recently earned the JavaScript Algorithms and Data Structures Certification from freeCodeCamp, further advancing my knowledge of core programming concepts.
 
 ---
 
